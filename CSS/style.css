@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+nav a { text-decoration:none; font-weight: 900;
+margin: 90px;
+font-size: 20px;color: black;}
+nav{ 
+  font-family: "Arsenal SC", sans-serif; 
+}
+table {border:10px double black}
+img {width: 90px; }
+
+body { background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Abu_Ghraib_cell_block.jpg/220px-Abu_Ghraib_cell_block.jpg);
+ background-repeat: no-repeat ;
+ background-size: cover;
+  text-align:center; 
+ }
+ .foto {width: 30px;
+ }
+ td { color: whitesmoke;}
+ .zxc { width: 150px;
+ border-radius: 50px;
+ height: 150px;}
+
+ 
